@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "XC90 风洞实验室",
+      "hasCanvas": false,
+      "bodyTextLen": 105,
+      "bodyTextHash": "4c480d71586cf2784681742fa5ef35c8e24f6296dc1b2b64deda4d43171eaf85",
+      "bodyTextPrefix": "FULL-SCALE AERO LAB XC90 风洞实验室 观察沃尔沃 XC90 车身周围的气流分离、表面压力与气动载荷。拖动",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "XC90 风洞实验室",
+      "hasCanvas": false,
+      "bodyTextLen": 105,
+      "bodyTextHash": "4c480d71586cf2784681742fa5ef35c8e24f6296dc1b2b64deda4d43171eaf85",
+      "bodyTextPrefix": "FULL-SCALE AERO LAB XC90 风洞实验室 观察沃尔沃 XC90 车身周围的气流分离、表面压力与气动载荷。拖动",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
